@@ -1,0 +1,39 @@
+﻿@model List<Assignment>
+
+<h2>Lista de Tarefas</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-dark"><i class="bi bi-plus-circle"></i>  Adicionar Tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>TarefaId</th>
+            <th>Nome da Tarefa</th>
+            <th>Descrição da Tarefa</th>
+            <th>Data de Início</th>
+            <th>Data de Término</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assignment in Model)
+        {
+            <tr>
+                <td>@assignment.AssignmentId</td>
+                <td>@assignment.AssignmentName</td>
+                <td>@assignment.Description</td>
+                <td>@assignment.StartDate</td>
+                <td>@assignment.EndDate</td>
+
+                <td>
+                    <a asp-action="Edit" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-primary"> Editar <i class="bi bi-pencil-square"></i></a>
+                    <a asp-action="Details" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-dark"> Detalhes <i class="bi bi-arrow-right-circle"></i></a>
+                    <a asp-action="Delete" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-danger"> Deletar <i class="bi bi-trash3"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
