@@ -18,8 +18,28 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/Done.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxEb25lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Assignment/ToDo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzaWdubWVudFxUb0RvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/beatriz.mozer.aragao/Desktop/Decola-Tech/Projetos/ProjetoTarefas/ListaDeTarefas/ListaDeTarefas/Views/Home/Index.cshtml]

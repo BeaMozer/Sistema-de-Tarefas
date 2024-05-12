@@ -1,0 +1,34 @@
+﻿@model Assignment
+
+<div class=" mt-5 mb-5">
+    <h2>Detalhes de @Model.AssignmentName</h2>
+</div>
+
+<div class="row">
+    <div class="col-2">
+        <b>ID da Tarefa</b>: @Model.AssignmentId
+    </div>
+    <div class="col-3">
+        <b> Nome da Tarefa</b>: @Model.AssignmentName
+    </div>
+    <div class="col-6">
+        <b>Descrição da Tarefa</b>: @Model.Description
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-5">
+        <b>Data de Início da Tarefa</b>: @Model.StartDate
+    </div>
+
+    <div class="col-5">
+        <b>Data Final da Tarefa</b>: @Model.EndDate
+    </div>
+</div>
+
+<p class="mt-4"><b>Status da Tarefa</b>: @Model.Status</p>
+
+
+<a asp-action="Edit" asp-route-id="@Model.AssignmentId" class="btn btn-sm btn-dark"> Editar <i class="bi bi-pencil-square"></i></a>
+<a asp-action="Index" class="btn btn-sm btn-secondary">Voltar</a>
+

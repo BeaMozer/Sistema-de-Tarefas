@@ -1,6 +1,18 @@
 ﻿@model List<Assignment>
 
-<h2>Lista de Tarefas</h2>
+
+<div class="text-center mt-5">
+    <h2>Lista de Todas as Tarefas</h2>
+    <div class="row mb-5 mt-5">
+        
+        <a asp-action="ToDo" class="col-6 btn btn-outline-dark">Tarefas Por fazer</a>
+
+        <a asp-action="Done" class="col-6 btn btn-outline-dark">Tarefas Feitas</a>
+        
+    </div>
+    
+</div>
+
 
 <p>
     <a asp-action="Create" class="btn btn-dark"><i class="bi bi-plus-circle"></i>  Adicionar Tarefa</a>
@@ -14,6 +26,7 @@
             <th>Descrição da Tarefa</th>
             <th>Data de Início</th>
             <th>Data de Término</th>
+            <th>Status</th>
 
             <th></th>
         </tr>
@@ -27,10 +40,12 @@
                 <td>@assignment.Description</td>
                 <td>@assignment.StartDate</td>
                 <td>@assignment.EndDate</td>
+                <td class="@((assignment.Status == "Por fazer") ? "text-danger" : "text-success")">@assignment.Status</td>
+                
 
                 <td>
                     <a asp-action="Edit" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-primary"> Editar <i class="bi bi-pencil-square"></i></a>
-                    <a asp-action="Details" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-dark"> Detalhes <i class="bi bi-arrow-right-circle"></i></a>
+                    <a asp-action="Details" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-secondary"> Detalhes <i class="bi bi-arrow-right-circle"></i></a>
                     <a asp-action="Delete" asp-route-id="@assignment.AssignmentId" class="btn btn-sm btn-danger"> Deletar <i class="bi bi-trash3"></i></a>
                 </td>
             </tr>

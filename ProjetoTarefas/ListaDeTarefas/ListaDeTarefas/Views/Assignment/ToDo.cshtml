@@ -1,0 +1,41 @@
+﻿@model List<Assignment>
+
+<div class="text-center mt-5 mb-5">
+<h2>Tarefas Por Fazer</h2>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>TarefaId</th>
+            <th>Nome da Tarefa</th>
+            <th>Descrição da Tarefa</th>
+            <th>Data de Início</th>
+            <th>Data de Término</th>
+            <th>Status</th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var assignment in Model)
+        {
+            <tr>
+                <td>@assignment.AssignmentId</td>
+                <td>@assignment.AssignmentName</td>
+                <td>@assignment.Description</td>
+                <td>@assignment.StartDate</td>
+                <td>@assignment.EndDate</td>
+                <td>@assignment.Status</td>
+
+
+                
+            </tr>
+        }
+
+    
+        
+   
+    </tbody>
+</table>
+<a asp-action="Index" class="btn btn-dark"><i class="bi bi-arrow-left-circle"></i> Voltar </a>

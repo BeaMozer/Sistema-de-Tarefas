@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\views\\assignment\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\done.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\views\\assignment\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\todo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\views\\assignment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|c:\\users\\beatriz.mozer.aragao\\desktop\\decola-tech\\projetos\\projetotarefas\\listadetarefas\\listadetarefas\\views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D0BEDE8-8835-43AE-8885-E9791EFE3966}|ListaDeTarefas\\ListaDeTarefas.csproj|solutionrelative:listadetarefas\\views\\assignment\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Details.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Details.cshtml",
+              "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T15:24:22.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Index.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\Index.cshtml",
               "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Index.cshtml",
               "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBQAAAALAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T12:26:12.304Z",
+              "WhenOpened": "2024-05-12T15:12:54.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Create.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\Create.cshtml",
+              "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Create.cshtml",
+              "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T17:26:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Edit.cshtml",
+              "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T13:15:46.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Done.cshtml",
+              "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Done.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\Done.cshtml",
+              "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\Done.cshtml",
+              "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\Done.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:44:38.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDo.cshtml",
+              "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\ToDo.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefas\\Views\\Assignment\\ToDo.cshtml",
+              "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Views\\Assignment\\ToDo.cshtml",
+              "RelativeToolTip": "ListaDeTarefas\\Views\\Assignment\\ToDo.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowCgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:25:55.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AssignmentController.cs",
               "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Controllers\\AssignmentController.cs",
               "RelativeDocumentMoniker": "ListaDeTarefas\\Controllers\\AssignmentController.cs",
               "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Controllers\\AssignmentController.cs",
               "RelativeToolTip": "ListaDeTarefas\\Controllers\\AssignmentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T12:15:36.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Assignment.cs",
               "DocumentMoniker": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Models\\Assignment.cs",
               "RelativeDocumentMoniker": "ListaDeTarefas\\Models\\Assignment.cs",
               "ToolTip": "C:\\Users\\beatriz.mozer.aragao\\Desktop\\Decola-Tech\\Projetos\\ProjetoTarefas\\ListaDeTarefas\\ListaDeTarefas\\Models\\Assignment.cs",
               "RelativeToolTip": "ListaDeTarefas\\Models\\Assignment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwA8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:13:05.126Z",
+              "WhenOpened": "2024-05-12T13:28:13.833Z",
               "EditorCaption": ""
             }
           ]
