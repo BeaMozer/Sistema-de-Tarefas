@@ -6,6 +6,7 @@ namespace ListaDeTarefas.Models
     {
         public int AssignmentId { get; set; }
 
+
         [Required(ErrorMessage = "O nome da tarefa é obrigatório.")]
         [Display(Name = "Nome da Tarefa")]
         public string? AssignmentName { get; set; }
@@ -13,9 +14,11 @@ namespace ListaDeTarefas.Models
         [Display(Name = "Descrição")]
         public string? Description { get; set; }
 
-   
+
+        [Display(Name = "Data de Início")]
         public DateTime? StartDate { get; set; }
 
+        [Display(Name = "Data Final")]
         public DateTime? EndDate { get; set; }
 
         

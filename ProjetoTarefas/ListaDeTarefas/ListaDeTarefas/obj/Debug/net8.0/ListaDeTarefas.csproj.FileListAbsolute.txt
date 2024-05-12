@@ -1,10 +1,3 @@
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.AssemblyInfoInputs.cache
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.AssemblyInfo.cs
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.csproj.CoreCompileInputs.cache
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.RazorAssemblyInfo.cache
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.RazorAssemblyInfo.cs
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\appsettings.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\ListaDeTarefas.staticwebassets.runtime.json
@@ -13,6 +6,14 @@ C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaD
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\ListaDeTarefas.runtimeconfig.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\ListaDeTarefas.dll
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\bin\Debug\net8.0\ListaDeTarefas.pdb
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.AssemblyInfoInputs.cache
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.AssemblyInfo.cs
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.RazorAssemblyInfo.cache
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.RazorAssemblyInfo.cs
+C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.sourcelink.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\staticwebassets\msbuild.ListaDeTarefas.Microsoft.AspNetCore.StaticWebAssets.props
@@ -28,4 +29,3 @@ C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaD
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.pdb
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.genruntimeconfig.cache
 C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ref\ListaDeTarefas.dll
-C:\Users\beatriz.mozer.aragao\Desktop\Decola-Tech\Projetos\ProjetoTarefas\ListaDeTarefas\ListaDeTarefas\obj\Debug\net8.0\ListaDeTarefas.sourcelink.json
